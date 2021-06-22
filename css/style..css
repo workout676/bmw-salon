@@ -1,0 +1,211 @@
+.bg{
+	position: absolute;
+	background-image: url(../img/m4.jpg);
+	width: 2000px;
+	height: 1000px;
+	left: -10px;
+	top: -23px;
+	background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  height: 100vh;
+  position: relative;
+  z-index: -1; 
+
+}
+h1{
+	text-align: center;
+	color: #B6B4B4;
+}
+p{
+	position: absolute;
+	text-align: center;
+	width: 500px;
+	height: 100px;
+	top: -100px;
+	font-family: Red Rose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	line-height: 360px;
+	color: #FFFFFF;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+h2{
+	position: absolute;
+	text-align: center;
+	width: 500px;
+	height: 100px;
+	top: -40px;
+	font-family: Red Rose;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 360px;
+	color: #FFFFFF;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.b{
+	position: absolute;
+	width: 600px;
+	height: 600px;
+	left: -210px;
+}
+.contact {
+   position: absolute;
+	width: 2010px;
+	left: -10px;
+	top: 965px;
+	height: 70px;
+	background: #3469B8;
+}
+h3{
+	text-align: center;
+	color: #ffffff;
+}
+.box-sidan{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+h4{
+	position: absolute;
+	width: 764px;
+	height: 250px;
+	margin-left: -150px;
+	margin-top: 1px;
+	font-family: Purple Purse;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 1px;
+	text-align: center;
+	color: #000000;
+}
+.contact2{
+	position: absolute;
+	width: 2010px;
+	height: 70px;
+	left: -10px;
+	margin-top: 50px;
+	background: #3469B8;
+}
+.box-jeep{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 150px;
+}
+h5{
+	position: absolute;
+	width: 764px;
+	height: 250px;
+	margin-left: -150px;
+	margin-top: 1px;
+	font-family: Purple Purse;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 1px;
+	text-align: center;
+	color: #000000;
+}
+.contact3{
+	position: absolute;
+	width: 2010px;
+	height: 70px;
+	left: -10px;
+	margin-top: 50px;
+	background: #3469B8;
+}
+.box-cupe{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 150px;
+}
+.contact4{
+	position: absolute;
+	width: 2010px;
+	height: 70px;
+	left: -10px;
+	margin-top: 50px;
+	background: #3469B8;
+}
+.contact5{
+	position: absolute;
+	width: 2010px;
+	height: 70px;
+	left: -10px;
+	margin-top: 50px;
+	background: #3469B8;
+}
+.box-ACS{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 150px;
+}
+
+.contact6{
+	position: absolute;
+	width: 2010px;
+	height: 70px;
+	left: -10px;
+	margin-top: 60px;
+	background: #3469B8;
+}
+.footer-contact{
+
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-end;
+   text-align: center;
+   margin-top: 170px;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+
+.footer-contact-info{
+    list-style: none;
+    padding-left: 0;
+    font-size: 24px;
+    color: #000;
+}
+.contact7{
+	position: absolute;
+	width: 2010px;
+	height: 100px;
+	left: -10px;
+	margin-top: 50px;
+	background: #3469B8;
+}
+h6{
+	position: absolute;
+	width: 764px;
+	height: 250px;
+	margin-left: -300px;
+	margin-top: 40px;
+	font-family: Purple Purse;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 1px;
+	text-align: center;
+	color: #ffffff;
+}
+h7{
+	position: absolute;
+	width: 764px;
+	height: 250px;
+	margin-left: 1150px;
+	margin-top: 40px;
+	font-family: Purple Purse;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 1px;
+	text-align: center;
+	color: #ffffff;
+}
