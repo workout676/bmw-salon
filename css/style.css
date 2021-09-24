@@ -1,0 +1,143 @@
+html, body {
+    height: 100%;
+}
+body {
+    font-family: 'Oswald', sans- serif;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.bq{
+	position: absolute;
+	background-image: url(../img/fon1.jpg);
+	width: 1866px;
+	height: 1000px;
+	left: -20px;
+	top: -23px;
+	background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  height: 100vh;
+  position: relative;
+  z-index: -1; 
+}
+.ava{
+	position: absolute;
+width: 404px;
+height: 317px;
+margin-left: 90px;
+background-image: url(../img/ava.jpg);
+border: 5px solid #000000;
+box-sizing: border-box;
+border-radius: 155.5px;
+}
+h1{
+	position: absolute;
+width: 166px;
+height: 76px;
+
+margin-top: -600px;
+margin-left: 70px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 30px;
+text-align: left;
+
+color: #FFFFFF;
+}
+h2{
+	position: absolute;
+width: 166px;
+height: 76px;
+margin-top: -600px;
+margin-left: 290px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.ins{
+	margin-left: -1355px;
+}
+.contact{
+	position: absolute;
+width: 1896px;
+height: 165px;
+margin-left: -50px;
+margin-top: -100px;
+
+background: #474747;
+border-radius: 94px;
+}
+.box{
+	margin-top: 40px;
+	margin-left: 800px;
+position: absolute;
+width: 360px;
+height: 82px;
+
+background-image: url(../img/nad.png);
+}
+.grid {
+    text-align: center;
+    display: grid;
+    grid-template-areas: "a b c" "d e f";
+    grid-gap: 28px;
+    margin-top: 59px;
+    margin-bottom: 14px;
+}
+.grid-item {
+    background-color: #F7F7F7;
+    padding: 56px 30px 36px;
+}
+.grid-item h3 {
+    line-height: 1.5;
+    margin-top: 147px;
+}
+.grid-one {
+    grid-area: a;
+}
+.grid-two {
+    grid-area: b;
+}
+.grid-three {
+    grid-area: c;
+}
+.grid-four {
+    grid-area: d;
+}
+.grid-five {
+    grid-area: e;
+}
+.grid-six {
+    grid-area: f;
+}
+.contact2{
+	position: absolute;
+width: 1896px;
+height: 165px;
+margin-left: -50px;
+margin-top: 0px;
+
+background: #474747;
+border-radius: 94px;
+}
+.box2{
+	margin-top: 40px;
+	margin-left: 650px;
+	position: absolute;
+	width: 650px;
+	height: 82px;
+	background-image: url(../img/10.png);
+}
+.video{
+	margin-left: 400px;
+}
